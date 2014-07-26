@@ -1,3 +1,10 @@
+### Overview
+
+This repository is a modified fork of the ProgrammingAssignment2 repository, which was created by
+Rodger D. Peng.  The cachematrix.R file has been modified as necessary to perform the actions
+required by the assignment, as described below.
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
